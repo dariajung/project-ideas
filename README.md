@@ -28,7 +28,7 @@ Thinkful Mentor Projects aggregator
 --------------------
 * Scrape Thinkful mentors' GitHubs or websites for side projects.
 * Store as JSON format.
-* Display in visually pleasing / easy to use manner on the static site. 
+* Display in visually pleasing / easy to use manner on a static site. 
 
 Date Night planner 
 ------------------
