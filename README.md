@@ -3,6 +3,10 @@ project-ideas
 
 Various project ideas on the backburner.
 
+Tokenadult Markov Chain IRC bot (in progress)
+-------------
+* See [here](https://github.com/dariajung/tokenadultbot)
+
 Sentiment of Public Tweets
 ---------------------------
 * Calculate sentimentality of tweet using an NLP library (ie: NLTK). 
