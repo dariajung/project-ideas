@@ -21,7 +21,7 @@ Yoga Class Generator
 * Generate transcript for a class using Markov Chains.
 * Depending on what user has learned / knows, cache / store what they have learned in a DB.
 * Display transcript in a visual way. 
-* Maybe implement a way to turn text to speech using library like [https://pypi.python.org/pypi/pyttsx/1.0](pyttsx)
+* Maybe implement a way to turn text to speech using library like [pyttsx](https://pypi.python.org/pypi/pyttsx/1.0)
 
 
 Thinkful Mentor Projects aggregator
