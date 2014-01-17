@@ -36,3 +36,9 @@ Date Night planner
 * Randomly generate a date idea. Allow user to skip through potential dates. 
 * Maybe allow the user to select some parameters such as near a certain location or in a certain borough. 
 * Probably will be limited to NYC only.
+* 
+
+Online version of Resume
+------------------------
+* Word documents are dumb.
+* HTML/CSS/JavaScript fun times. <3
