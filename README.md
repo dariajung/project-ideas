@@ -52,3 +52,11 @@ CSS3/HTML Animations
 Some sort of online instrument
 -----------------------------
 * Using [sebastian](https://github.com/jtauber/sebastian)
+
+Webserver
+---------
+* In C? Python? Node?
+
+Settlers of Catan AI
+----------------
+* Favorite boardgame, so why not code it and try to write AIs for it?
