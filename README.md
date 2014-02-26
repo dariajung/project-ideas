@@ -14,6 +14,10 @@ Sentiment of Public Tweets
 * Plot tweets on a map (depends on region where tweets are pulled from.)
 
 
+Simple WEBrtc chat client
+-------------------------
+
+
 Yoga Class Generator 
 --------------------
 * Find transcripts of yoga classes for various levels or videos and use speech recognition library like [Dragonfly](https://code.google.com/p/dragonfly/) 
